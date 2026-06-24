@@ -1,5 +1,0 @@
-# input for PolyDamE
-name = ttInconelX750
-elements = Ni Cr Fe Nb Ti
-stoichiometry = 74 14.9 7.3 1. 2.3
-E_max = 1e3
